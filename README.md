@@ -4,6 +4,8 @@ A quantitative portfolio allocation strategy. In Matlab for https://www.quantiac
 
 ![The Cartman 7](http://i65.tinypic.com/zmxx5d.png)
 
+Lots of typos in the comments - don't feel like fixing.. 
+
 I wrote this a couple years ago for https://www.quantiacs.com/. 
 
 This is different than any automated trading program I've ever written. Normally, I program day-trading systems. Not HFT's but just a few a day and always in cash by market close. 
