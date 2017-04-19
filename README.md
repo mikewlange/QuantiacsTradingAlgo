@@ -10,7 +10,7 @@ I wrote this a couple years ago for https://www.quantiacs.com/.
 
 This is different than any automated trading program I've ever written. Normally, I program day-trading systems. Not HFT's but just a few a day and always in cash by market close. 
 
-This is a, "what could you do with a million dollar portfolio that need consistant low risk returns". So my approach had to be a little different. Quite different actually. Pretty stupid to tell yo the truth. Very expieremental - I think. 
+This is a, "what could you do with a million dollar portfolio that needs consistant low risk returns". So my approach had to be a little different. Quite different actually. Didn't even know where to begin, so I tryied somthing pretty stupid to tell you the truth. Lots of code and thought was needed to derive these equations - before I even thought the concept would work. Well, I knoew it would eventualy, it's not magic, just lots of complextity to spit out something that works - the code posted. 
 
 I simplified the shit out of genetic mathematical model creation. When you look at the models for each derivative you'll prob wonder, "how the hell did he come up with those constants? you curve fitting assole. that math is easy, I thought quantitative trading was complex."
 
