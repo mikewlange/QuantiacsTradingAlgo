@@ -24,12 +24,12 @@ So I did what I know how to do, write some code tosolve that problem for me.
 Just Arithmetic? 
 -------------
 
-Yup. 3rd grade math is all you need to design a highly effecient predictive fincial model, given tehough data to work with.  
+Yup. 3rd grade math is all you need to design a highly effecient predictive fincial models if ehought quality data is at my disposal. 
 
 **Simplicity**
 
-> Feedforward modeling that processes sequential number sequences into predictive arithmetic models using ONLY atomic functions and operators. 
-> Can't post the code for the generator, just because. But this is just the first of a TON of trading programs and software I have written that I will provide the full source for. 
+> Feedforward modeling that processes sequential number sequences (time searies data) into predictive arithmetic models using ONLY atomic functions and operators. 
+> Can't post the code for the modeler, just because. But this is just the first of a TON of trading programs and software I have written that I will provide the full source for. 
 
 If you want to test the model, download the **Matlab** back-tester here: https://www.quantiacs.com/For-Quants/GetStarted/QuantiacsToolbox.aspx. 
 
