@@ -1,6 +1,6 @@
 # The Washington Redskins 'Go Fuck Yourself' Trading Strategy
-A quantitative portfolio allocation strategy. In Matlab for https://www.quantiacs.com/. 
 ===================
+A quantitative portfolio allocation strategy. In Matlab for https://www.quantiacs.com/. 
 
 I wrote this a couple years ago for https://www.quantiacs.com/. 
 
