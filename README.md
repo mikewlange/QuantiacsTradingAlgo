@@ -24,18 +24,16 @@ So I did what I know how to do, write some code tosolve that problem for me.
 Just Arithmetic? 
 -------------
 
-Yup. 3rd grade math is all you need to design a highly effecient predictive fincial models if ehought quality data is at my disposal. 
+Yup. 3rd grade math is all you need to design highly effective predictive models.. 
 
 **Simplicity**
 
 > Feedforward modeling that processes sequential number sequences (time searies data) into predictive arithmetic models using ONLY atomic functions and operators. 
-> Can't post the code for the modeler, just because. But this is just the first of a TON of trading programs and software I have written that I will provide the full source for. 
+> Can't post the code for the modeler, just because. But the trading models are in the source. 
 
-If you want to test the model, download the **Matlab** back-tester here: https://www.quantiacs.com/For-Quants/GetStarted/QuantiacsToolbox.aspx. 
+If you want to test this goodie, download the **Matlab** back-tester here: https://www.quantiacs.com/For-Quants/GetStarted/QuantiacsToolbox.aspx. 
 
-Enjoy and sorry for not posting the guts for this one. But I'll be open sourcing all my trading stuff soon and most are written in c or c# for Ninja or Multi Charts. Indicators, Strategies, UI overhauls, you name it. And those are day traders. Some simple, some complex. And no more Matlab, yuk. 
-
-So stay tuned. 
+Enjoy and sorry for not posting the guts for this one. But I'll be open sourcing all my trading stuff soon. Indicators, Strategies, plarform overhauls (NT/Multi), you name it.
 
 Feel free to use this and make millions if you can!! 
 
