@@ -10,7 +10,7 @@ This is different than any automated trading program I've ever written. Normally
 
 I simplified the shit out of genetic mathematical model creation. When you look at the models for each derivative you'll prob wonder, "how the hell did he come up with those constants? you curve fitting assole. that math is easy, I thought quantitative trading was complex."
 
-And you would be right, most unmanaged trading systems require a lot more thought than I put into this. But, I've always been a fan of finding the shortest path to a goal.
+And you would be right, most trading systems require a lot more thought than I put into this. But, I've always been a fan of finding the shortest path to a goal.
 
 So, since I've never tradeed a large portfolio over a long period of time. So natually, the quicket and most effective path to rapidy build a sucessful trading model is to code a program to do that thinking for me. 
 
