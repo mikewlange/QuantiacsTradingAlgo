@@ -12,7 +12,6 @@ I simplified the shit out of genetic mathematical model creation. When you look 
 
 And you would be right, most trading systems require a lot more thought than I put into this. But, I've always been a fan of finding the shortest path to a goal.
 
-Natually, the most effective path to rapidy build a sucessful trading model is to code a program to do that thinking for me. 
 
 ----------
 Just Arithmetic? 
@@ -22,8 +21,7 @@ Yup. 3rd grade math is all you need to design highly effective predictive models
 
 **Simplicity**
 
-> Feedforward modeling that processes number sequences (time series data) into predictive arithmetic models using ONLY atomic functions and operators. 
-> Can't post the code for the modeler, just because. But the trading models are in the source.  
+> Feedforward modeling that processes number sequences (time series data) into predictive arithmetic models using ONLY atomic functions and operators.   
 
 If you want to test this goodie, download the **Matlab** back-tester here: https://www.quantiacs.com/For-Quants/GetStarted/QuantiacsToolbox.aspx. 
 
